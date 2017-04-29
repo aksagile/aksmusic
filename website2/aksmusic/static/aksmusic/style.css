@@ -1,0 +1,11 @@
+body{
+    background-image:url("images/DSC_0378.JPG");
+}
+
+.navbar{
+    border-radius: 0;
+
+}
+.navbar-brand{
+    font-family: 'Satisfy', cursive;
+}
